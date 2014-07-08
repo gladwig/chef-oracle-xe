@@ -1,3 +1,4 @@
+name             'chef-oracle-xe'
 maintainer       'Leif Gensert'
 maintainer_email 'leif@propertybase.com'
 license          'MIT'
